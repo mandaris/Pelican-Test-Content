@@ -1,5 +1,6 @@
 title: No Figure Testing  
 date: 2017-12-26 22:45:02
+category: blogging  
 tags: html, markdown  
 
 This has no figures.
