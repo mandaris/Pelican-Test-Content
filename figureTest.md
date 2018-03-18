@@ -2,7 +2,7 @@ title: Figure Testing
 date: 2017-12-01 22:45:02
 tags: html, markdown  
 
-![Figures are awesome.](http://via.placeholder.com/350x150 "Some random image")
+![Figures are awesome.](http://via.placeholder.com/750x150 "Some random image")
 
 This is just a little test to make sure that this is working properly. I want to make this a decent test. 
 
