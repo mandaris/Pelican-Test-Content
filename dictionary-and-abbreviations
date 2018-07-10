@@ -1,0 +1,57 @@
+title: dictionary and abbreviations  
+date: 2018-03-17 19:43:08  
+category: blogging  
+tags: markdown, html  
+status: published    
+
+I don't really think I'll be using this too much because it doesn't fit my writing style at the moment.
+
+# Dictionaries.
+These examples were found [here](https://michelf.ca/projects/php-markdown/extra).
+
+Apple
+:   Pomaceous fruit of plants of the genus Malus in 
+the family Rosaceae.
+
+Orange
+:   The fruit of an evergreen tree of the genus Citrus.
+
+Prunes
+:   A wonderful fruit and that people like to eat.
+
+
+
+## More complex example of dictionaries.
+
+Term 1
+
+:   This is a definition with two paragraphs. Lorem ipsum 
+    dolor sit amet, consectetuer adipiscing elit. Aliquam 
+    hendrerit mi posuere lectus.
+
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+    vitae, risus.
+
+:   Second definition for term 1, also wrapped in a paragraph
+    because of the blank line preceding it.
+
+Term 2
+
+:   This definition has a code block, a blockquote and a list.
+
+        code block.
+
+    > block quote
+    > on two lines.
+
+    1.  first list item
+    2.  second list item
+
+# Abbreviations
+
+The HTML specification is maintained by the W3C.
+
+*[HTML]: Hyper Text Markup Language
+
+*[W3C]:  World Wide Web Consortium
+
