@@ -1,7 +1,8 @@
 title: Article with description meta data   
 date: 2018-05-22 06:16:44  
+modified: 2018-11-28 22:52:54  
 category: misc  
-tags: misc  
+tags: random tag, meta data, article  
 status: published  
 description: The quick brown fox jumped over the lazy dog  
 
