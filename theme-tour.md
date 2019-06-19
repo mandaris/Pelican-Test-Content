@@ -4,7 +4,7 @@ category: blogging
 tags: test, tour  
 status: published    
 
-![Example of a large image.](images/example-large-image.png "Just another example image.")
+![Example of a large image. Puppy running to camera.](/images/joe-caione-781415-unsplash.jpg "Photo by Joe Caione on Unsplash.")
 
 [TOC]
 
@@ -17,7 +17,20 @@ I wanted to make a page that contained most if not all of the different things t
 
 This sentence as *emphasied* and **bold** text.
 
-This is a sentence with a [link][].
+This sentence has `code` written in it.
+
+This is a sentence with a [link](https://duckduckgo.com "The search engine that doesn't track you. ").
+
+## Multiple Paragraphs of text
+Pack my box with five dozen liquor jugs. Several fabulous dixieland jazz groups played with quick tempo. Back in my quaint garden, jaunty zinnias vie with flaunting phlox. Five or six big jet planes zoomed quickly by the new tower. Exploring the zoo, we saw every kangaroo jump and quite a few carried babies. I quickly explained that many big jobs involve few hazards. Jay Wolf is quite an expert on the bass violin, guitar, dulcimer, ukulele and zither. Expect skilled signwriters to use many jazzy, quaint old alphabets effectively. The wizard quickly jinxed the gnomes before they vaporized. THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG'S BACK 1234567890[^alternatives].
+
+[^alternatives]: These were all alternatives to the [famous pangram](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog "From Wikipedia, the free encyclopedia") for testing fonts found [here](https://wookiecode.blogspot.com/2012/05/handwriting-aids-and-links-to-lesson.html "Alternatives to: The quick brown fox jumps over the lazy dog."). 
+
+*Lorem ipsum dolor sit amet*, eu detracto senserit vis, ei `natum` ridens detracto sit. Id iriure prompta vix. _Sit ea feugiat invenire similique_, etiam solet eleifend cu per. **Ea falli nullam elaboraret vis**, modo percipitur omittantur at ius, _in quo nullam timeam ocurreret_. Est ad deleniti corrumpit scripserit, te usu **apeirian recusabo oportere**, nemore laboramus vulputate te vim. Ea eum mazim iudicabit, `harum utroque` pri ne.
+
+Per no putant iriure [intellegebat](#). Tamquam maiorum ei eum, ea iuvaret maluisset liberavisse eam, adhuc falli _tamquam ius te?_ Eu amet virtute scaevola est, simul **nusquam** invidunt duo id, at usu sanctus abhorreant definiebas! Vide ullum quo cu? Ius in forensibus sadipscing, dicant aperiri volutpat et sit.
+
+Veri dicat pro te, an aliquam reprimique cum, et pro commune maiestatis. Nec ex amet [eleifend definitiones](#)! An adipisci `consequuntur` est. In quot oratio vis. Vide nobis aperiam pri ad, et sit dictas adolescens inciderint, pertinacia referrentur consequuntur pri id?
 
 
 # List
@@ -38,14 +51,14 @@ There are two kinds of lists.
 2. Second item
 3. Third item
 
-A small paragraphe between the a second list.
+A small paragraphe before the second list.
 
 4. Forth item - If this doesn't start with 4 than smart list are not on.
 5. Fifth item
 6. Six item
 
 # Footnotes
-I am going to use the example from the footnote [documentation](https://python-markdown.github.io/extensions/footnotes/ "The Footnotes extension adds syntax for defining footnotes in Markdown documents.")[^footnote].
+I am going to use the example from the footnote [documentation](https://python-markdown.github.io/extensions/footnotes/ "The Footnotes extension adds syntax for defining footnotes in Markdown documents.")[^footnote]. 
 
 [^footnote]:
     The first paragraph of the definition.
