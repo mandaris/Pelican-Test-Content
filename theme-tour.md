@@ -1,5 +1,6 @@
 title: Theme Tour  
 date: 2018-07-31 08:18:06  
+modified: 2019-06-24 19:12:53  
 category: blogging  
 tags: test, tour  
 status: published    
@@ -38,12 +39,13 @@ There are two kinds of lists.
 
 ## Unordered lists
 
-+ First item
++ First item.
+
 + Second item. This second item has two paragraphs in it.
 
-    This is the second line of the second item. Not confusing at all.
+    This is the second line of the second item. (Not confusing at all.)
 	
-+ Third item
++ Third item.
 
 ## Ordered lists
 
@@ -51,7 +53,7 @@ There are two kinds of lists.
 2. Second item
 3. Third item
 
-A small paragraphe before the second list.
+A small paragraph before the second list.
 
 4. Forth item - If this doesn't start with 4 than smart list are not on.
 5. Fifth item
@@ -61,9 +63,9 @@ A small paragraphe before the second list.
 I am going to use the example from the footnote [documentation](https://python-markdown.github.io/extensions/footnotes/ "The Footnotes extension adds syntax for defining footnotes in Markdown documents.")[^footnote]. 
 
 [^footnote]:
-    The first paragraph of the definition.
+    The first paragraph of the footnote.
 
-    Paragraph two of the definition.
+    The second paragraph of the footnote.
 
     > A blockquote with
     > multiple lines.
@@ -87,7 +89,7 @@ This is my tables section. These were taken from https://markdown-it.github.io/
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
-Right aligned columns
+## Right aligned columns
 
 | Option | Description |
 | ------:| -----------:|
@@ -96,7 +98,7 @@ Right aligned columns
 | ext    | extension to be used for dest files. |
 
 # Misc
-This is the things that most people don't really use.
+These are the things that most people don't really use.
 
 ## Definitions
 
@@ -113,10 +115,20 @@ Orange
 
 ## Code blocks
 
-```python hl_lines="1 3"
+```python hl_lines="2 4 9"
+import logging
 # This line is emphasized
 # This line isn't
 # This line is emphasized
+
+def func():
+    # function body
+    someValue = "func called"
+    logging.info(someValue)
+
+if __name__ == '__main__':
+    func()
+
 ```
 
 ## Abbreviations
