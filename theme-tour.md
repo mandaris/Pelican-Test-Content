@@ -81,6 +81,13 @@ Something simple should go here.
 > Remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
 > - Harriet Tubman
 
+Sometimes you might have nested block quotes.
+
+> > You miss 100% of the shots you don't take.
+> > - Wayne Gretzky
+>
+> Michael Scott
+
 # Tables
 This is my tables section. These were taken from https://markdown-it.github.io/
 
