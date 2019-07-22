@@ -1,6 +1,6 @@
 title: Theme Tour  
 date: 2028-07-31 08:18:06  
-modified: 2019-07-19 17:36:53  
+modified: 2019-07-22 16:23:42   
 category: blogging  
 tags: test, tour  
 status: published    
@@ -132,11 +132,13 @@ Banana
 :   A tropical plant of the genus _Musa_.
 
 Orange
+:   The fruit of an evergreen tree of the genus _Citrus_.
 
 Pinapple
-:
+:   A tropical fruit from the _[Bromeliaceae](https://en.wikipedia.org/wiki/Bromeliaceae)_ family.
 
 Mango
+:   A juicy stone fruit (drupe) from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for their edible fruit.
 
 
 ### Complex definitions 
