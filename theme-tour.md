@@ -191,4 +191,9 @@ The HTML specification is maintained by the W3C. This example taken from https:/
 *[W3C]:  World Wide Web Consortium
 
 ## Attribute List
+The Abbreviations extension adds the ability to define abbreviations. Specifically, any defined abbreviation is wrapped in an `<abbr>` tag. Example taken from https://python-markdown.github.io/extensions/abbreviations/ 
+
 This is a [link](http://example.com){: class="foo bar" title="Some title!" }.
+
+This is a paragraph.
+{: #an_id .a_class }
