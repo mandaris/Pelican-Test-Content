@@ -125,15 +125,45 @@ These are the things that most people don't really use.
 ## Definitions
 
 Apple
-:   Pomaceous fruit of plants of the genus Malus in 
-    the family Rosaceae.
+:   Pomaceous fruit of plants of the genus Malus in the family _Rosaceae_.
 :   An American computer company.
 
 Banana
-:   a tropical plant of the genus _Musa_
+:   A tropical plant of the genus _Musa_.
 
 Orange
-:   The fruit of an evergreen tree of the genus Citrus.
+
+Pinapple
+:
+
+Mango
+
+
+### Complex definitions 
+
+Term 1
+
+:   This is a definition with two paragraphs. Lorem ipsum 
+    dolor sit amet, consectetuer adipiscing elit. Aliquam 
+    hendrerit mi posuere lectus.
+
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+    vitae, risus.
+
+:   Second definition for term 1, also wrapped in a paragraph
+    because of the blank line preceding it.
+
+Term 2
+
+:   This definition has a code block, a blockquote and a list.
+
+        code block.
+
+    > block quote
+    > on two lines.
+
+    1.  first list item
+    2.  second list item
 
 ## Code blocks
 
