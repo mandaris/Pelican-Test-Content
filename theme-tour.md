@@ -1,6 +1,6 @@
 title: Theme Tour  
 date: 2028-07-31 08:18:06  
-modified: 2019-06-24 19:12:53  
+modified: 2019-07-19 17:36:53  
 category: blogging  
 tags: test, tour  
 status: published    
@@ -62,8 +62,7 @@ A small paragraph before the second list.
 # Footnotes
 I am going to use the example from the footnote [documentation](https://python-markdown.github.io/extensions/footnotes/ "The Footnotes extension adds syntax for defining footnotes in Markdown documents.")[^footnote]. 
 
-[^footnote]:
-    The first paragraph of the footnote.
+[^footnote]: The first paragraph of the footnote.
 
     The second paragraph of the footnote.
 
@@ -72,7 +71,7 @@ I am going to use the example from the footnote [documentation](https://python-m
 
         a code block
 
-    A final paragraph.
+    A final paragraph in the same foot note.
 
 # Block quote
 Something simple should go here.
