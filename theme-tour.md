@@ -184,7 +184,7 @@ if __name__ == '__main__':
 ```
 
 ## Abbreviations
-The HTML specification is maintained by the W3C.
+The HTML specification is maintained by the W3C. This example taken from https://python-markdown.github.io/extensions/abbreviations/
 
 *[HTML]: Hyper Text Markup Language
 
