@@ -23,7 +23,9 @@ This sentence has `code` written in it.
 This is a sentence with a [link](https://duckduckgo.com "The search engine that doesn't track you. ").
 
 ## Multiple Paragraphs of text
-Pack my box with five dozen liquor jugs. Several fabulous dixieland jazz groups played with quick tempo. Back in my quaint garden, jaunty zinnias vie with flaunting phlox. Five or six big jet planes zoomed quickly by the new tower. Exploring the zoo, we saw every kangaroo jump and quite a few carried babies. I quickly explained that many big jobs involve few hazards. Jay Wolf is quite an expert on the bass violin, guitar, dulcimer, ukulele and zither. Expect skilled signwriters to use many jazzy, quaint old alphabets effectively. The wizard quickly jinxed the gnomes before they vaporized. THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG'S BACK 1234567890[^alternatives].
+Pack my box with five dozen liquor jugs. Several fabulous dixieland jazz groups played with quick tempo. Back in my quaint garden, jaunty zinnias vie with flaunting phlox[^reference]. Five or six big jet planes zoomed quickly by the new tower. Exploring the zoo, we saw every kangaroo jump and quite a few carried babies. I _quickly_ explained that many big jobs involve few hazards. Jay Wolf is quite an expert on the bass violin, guitar, dulcimer, ukulele and zither. Expect skilled signwriters to use many jazzy, quaint old alphabets effectively. The wizard quickly jinxed the gnomes before they vaporized. THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG'S BACK 1234567890[^alternatives].
+
+[^reference]: A footnote in the middle of a larger paragraph has a footnote somewhere else.
 
 [^alternatives]: These were all alternatives to the [famous pangram](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog "From Wikipedia, the free encyclopedia") for testing fonts found [here](https://wookiecode.blogspot.com/2012/05/handwriting-aids-and-links-to-lesson.html "Alternatives to: The quick brown fox jumps over the lazy dog."). 
 
