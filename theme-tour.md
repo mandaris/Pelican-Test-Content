@@ -35,6 +35,13 @@ Per no putant iriure [intellegebat](#). Tamquam maiorum ei eum, ea iuvaret malui
 
 Veri dicat pro te, an aliquam reprimique cum, et pro commune maiestatis. Nec ex amet [eleifend definitiones](#)! An adipisci `consequuntur` est. In quot oratio vis. Vide nobis aperiam pri ad, et sit dictas adolescens inciderint, pertinacia referrentur consequuntur pri id?
 
+# Images
+![Simple Place holder.](https://via.placeholder.com/728x90.png "C/O https://placeholder.com/")
+
+![Square place holder image before paragraph.](https://via.placeholder.com/150.png "C/O https://placeholder.com/") *[Yar Pirate Ipsum.](https://pirateipsum.me "The best Lorem Ipsum Generator in all the sea!")* Rutters log red ensign bring a spring upon her cable Pirate Round prow fathom. Snow broadside Arr poop deck hardtack lad barkadeer. Cat o'nine tails handsomely fire ship reef bring a spring upon her cable yardarm jury mast. Hang the jib mutiny execution dock cutlass Sail ho furl ye. Barque crimp aye fore nipper yo-ho-ho grog. Crack Jennys tea cup Brethren of the Coast weigh anchor spanker port rutters jack.
+
+Man-of-war tender lanyard piracy yard prow case shot. Bilge brig six pounders loot landlubber or just lubber me salmagundi. Chantey keelhaul Pieces of Eight hail-shot mutiny brigantine barque. ![Square place holder image in middle of paragraph.](https://via.placeholder.com/150.png "C/O https://placeholder.com/") Dead men tell no tales American Main parrel code of conduct haul wind hornswaggle Admiral of the Black. Cable no prey, no pay bilge rat swab wherry boom run a shot across the bow. Run a shot across the bow skysail strike colors Sail ho lateen sail wench Barbary Coast. 
+
 
 # List
 There are two kinds of lists.
