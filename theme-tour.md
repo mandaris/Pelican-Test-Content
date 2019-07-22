@@ -89,21 +89,35 @@ Sometimes you might have nested block quotes.
 > Michael Scott
 
 # Tables
-This is my tables section. These were taken from https://markdown-it.github.io/
+This is my tables section. These were taken from https://markdown-it.github.io/ and https://michelf.ca/projects/php-markdown/extra/#table.
 
-| Option | Description |
-| ------ | ----------- |
+| Option | Description                                                               |
+| ------ | ------------------------------------------------------------------------- |
 | data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| engine | engine to be used for processing templates. Handlebars is the default.    |
+| ext    | extension to be used for dest files.                                      |
 
 ## Right aligned columns
 
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| Option | Description                                                               |
+| -----: | ------------------------------------------------------------------------: |
+|   data | path to data files to supply the data that will be passed into templates. |
+| engine |    engine to be used for processing templates. Handlebars is the default. |
+|    ext |                                      extension to be used for dest files. |
+
+## Centered values
+
+| Item      | Value |
+| :-------: | -----:|
+| Computer  | $1600 |
+| Phone     |   $12 |
+| Pipe      |    $1 |
+
+
+| Function name | Description                      |
+| ------------- | -------------------------------- |
+| `help()`      | Display the _help_ window.       |
+| `destroy()`   | **Destroy your computer!**       |
 
 # Misc
 These are the things that most people don't really use.
