@@ -23,6 +23,7 @@ This sentence has `code` written in it.
 This is a sentence with a [link](https://duckduckgo.com "The search engine that doesn't track you. ").
 
 ## Multiple Paragraphs of text
+
 Pack my box with five dozen liquor jugs. Several fabulous dixieland jazz groups played with quick tempo. Back in my quaint garden, jaunty zinnias vie with flaunting phlox[^reference]. Five or six big jet planes zoomed quickly by the new tower. Exploring the zoo, we saw every kangaroo jump and quite a few carried babies. I _quickly_ explained that many big jobs involve few hazards. Jay Wolf is quite an expert on the bass violin, guitar, dulcimer, ukulele and zither. Expect skilled signwriters to use many jazzy, quaint old alphabets effectively. The wizard quickly jinxed the gnomes before they vaporized. THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG'S BACK 1234567890[^alternatives].
 
 [^reference]: A footnote in the middle of a larger paragraph has a footnote somewhere else.
@@ -36,6 +37,7 @@ Per no putant iriure [intellegebat](#). Tamquam maiorum ei eum, ea iuvaret malui
 Veri dicat pro te, an aliquam reprimique cum, et pro commune maiestatis. Nec ex amet [eleifend definitiones](#)! An adipisci `consequuntur` est. In quot oratio vis. Vide nobis aperiam pri ad, et sit dictas adolescens inciderint, pertinacia referrentur consequuntur pri id?
 
 # Images
+
 ![Simple Place holder.](https://via.placeholder.com/728x90.png "C/O https://placeholder.com/")
 
 ![Square place holder image before paragraph.](https://via.placeholder.com/150.png "C/O https://placeholder.com/") *[Yar Pirate Ipsum.](https://pirateipsum.me "The best Lorem Ipsum Generator in all the sea!")* Rutters log red ensign bring a spring upon her cable Pirate Round prow fathom. Snow broadside Arr poop deck hardtack lad barkadeer. Cat o'nine tails handsomely fire ship reef bring a spring upon her cable yardarm jury mast. Hang the jib mutiny execution dock cutlass Sail ho furl ye. Barque crimp aye fore nipper yo-ho-ho grog. Crack Jennys tea cup Brethren of the Coast weigh anchor spanker port rutters jack.
@@ -44,6 +46,7 @@ Man-of-war tender lanyard piracy yard prow case shot. Bilge brig six pounders lo
 
 
 # List
+
 There are two kinds of lists.
 
 ## Unordered lists
@@ -60,6 +63,7 @@ There are two kinds of lists.
 
 1. First item
 2. Second item
+    Second paragraph of Second item
 3. Third item
 
 A small paragraph before the second list.
@@ -69,6 +73,7 @@ A small paragraph before the second list.
 6. Six item
 
 # Footnotes
+
 I am going to use the example from the footnote [documentation](https://python-markdown.github.io/extensions/footnotes/ "The Footnotes extension adds syntax for defining footnotes in Markdown documents.")[^footnote]. 
 
 [^footnote]: The first paragraph of the footnote.
@@ -83,6 +88,7 @@ I am going to use the example from the footnote [documentation](https://python-m
     A final paragraph in the same foot note.
 
 # Block quote
+
 Something simple should go here.
 
 > Remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
@@ -96,6 +102,7 @@ Sometimes you might have nested block quotes.
 > Michael Scott
 
 # Tables
+
 This is my tables section. These were taken from https://markdown-it.github.io/ and https://michelf.ca/projects/php-markdown/extra/#table.
 
 | Option | Description                                                               |
@@ -126,10 +133,14 @@ This is my tables section. These were taken from https://markdown-it.github.io/ 
 | `help()`      | Display the _help_ window.       |
 | `destroy()`   | **Destroy your computer!**       |
 
+
 # Misc
+
 These are the things that most people don't really use.
 
 ## Definitions
+
+Definitions are a great way to show information.
 
 Apple
 :   Pomaceous fruit of plants of the genus Malus in the family _Rosaceae_.
@@ -193,6 +204,7 @@ if __name__ == '__main__':
 ```
 
 ## Abbreviations
+
 The HTML specification is maintained by the W3C. This example taken from https://python-markdown.github.io/extensions/abbreviations/
 
 *[HTML]: Hyper Text Markup Language
@@ -200,6 +212,7 @@ The HTML specification is maintained by the W3C. This example taken from https:/
 *[W3C]:  World Wide Web Consortium
 
 ## Attribute List
+
 The Abbreviations extension adds the ability to define abbreviations. Specifically, any defined abbreviation is wrapped in an `<abbr>` tag. Example taken from https://python-markdown.github.io/extensions/abbreviations/ 
 
 This is a [link](http://example.com){: class="foo bar" title="Some title!" }.
