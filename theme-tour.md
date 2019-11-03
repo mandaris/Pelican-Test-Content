@@ -108,7 +108,7 @@ Sometimes you might have nested block quotes.
 > > You miss 100% of the shots you don't take.
 > > - Wayne Gretzky
 >
-> Michael Scott
+> - Michael Scott
 
 # Tables
 
