@@ -5,14 +5,17 @@ category: blogging
 tags: test, tour  
 status: published    
 
-![Example of a large image. Puppy running to camera.](/images/joe-caione-781415-unsplash.jpg "Photo by Joe Caione on Unsplash.")
 
-[TOC]
+![Pelican Test Theme Tour.](images/Pelican-Test-Content-Logo.png "Logo for Pelican Test Content")
 
 # Goal for this document
+
 I wanted to make a page that contained most if not all of the different things that you would find in a blog post written in Markdown. For simplicity, I'll stick to what is found in [Python-Markdown][pm] as it is the one that I use most.
 
 [pm]: https://python-markdown.github.io/ "A Python implementation of John Gruber's Markdown."
+
+[TOC]
+
 
 # Basic Syntax
 
@@ -39,6 +42,12 @@ Veri dicat pro te, an aliquam reprimique cum, et pro commune maiestatis. Nec ex 
 # Images
 
 ![Simple Place holder.](https://via.placeholder.com/728x90.png "C/O https://placeholder.com/")
+
+## Large image
+
+![Example of a large image. Puppy running to camera.](images/joe-caione-781415-unsplash.jpg "Photo by Joe Caione on Unsplash.")
+
+## Images in a paragraph
 
 ![Square place holder image before paragraph.](https://via.placeholder.com/150.png "C/O https://placeholder.com/") *[Yar Pirate Ipsum.](https://pirateipsum.me "The best Lorem Ipsum Generator in all the sea!")* Rutters log red ensign bring a spring upon her cable Pirate Round prow fathom. Snow broadside Arr poop deck hardtack lad barkadeer. Cat o'nine tails handsomely fire ship reef bring a spring upon her cable yardarm jury mast. Hang the jib mutiny execution dock cutlass Sail ho furl ye. Barque crimp aye fore nipper yo-ho-ho grog. Crack Jennys tea cup Brethren of the Coast weigh anchor spanker port rutters jack.
 
